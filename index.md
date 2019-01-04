@@ -75,6 +75,10 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: Hello world! ❤︎
----
+- template: 1-column-text
+  block: one-column-1
+  headline: Don't live without it
+  content: Yes that's really like that
 
+---
 foo bar
